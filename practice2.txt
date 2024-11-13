@@ -1,2 +1,3 @@
 hello from branch1
 a line from branch2
+the second line from b2
